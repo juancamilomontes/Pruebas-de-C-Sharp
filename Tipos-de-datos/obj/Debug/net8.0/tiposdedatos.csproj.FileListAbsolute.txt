@@ -1,0 +1,15 @@
+C:\trabajos sena 2026\C#\bin\Debug\net8.0\tiposdedatos.exe
+C:\trabajos sena 2026\C#\bin\Debug\net8.0\tiposdedatos.deps.json
+C:\trabajos sena 2026\C#\bin\Debug\net8.0\tiposdedatos.runtimeconfig.json
+C:\trabajos sena 2026\C#\bin\Debug\net8.0\tiposdedatos.dll
+C:\trabajos sena 2026\C#\bin\Debug\net8.0\tiposdedatos.pdb
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.AssemblyInfoInputs.cache
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.AssemblyInfo.cs
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.csproj.CoreCompileInputs.cache
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.sourcelink.json
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.dll
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\refint\tiposdedatos.dll
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.pdb
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\tiposdedatos.genruntimeconfig.cache
+C:\trabajos sena 2026\C#\obj\Debug\net8.0\ref\tiposdedatos.dll
